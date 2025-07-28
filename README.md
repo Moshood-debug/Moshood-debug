@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Pelumi 👋</h1>
+<h1 align="center">Hi, I'm Ibarhim 👋</h1>
 
 <p align="center">
   <b>A passionate software developer from Nigeria 🇳🇬</b><br />
