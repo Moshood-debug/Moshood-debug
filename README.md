@@ -2,9 +2,9 @@
 
 <h3 align="center">Software Developer | Building Fast, Accessible & Responsive Applications</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=moshood-debug&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+</p> -->
 
 ---
 
